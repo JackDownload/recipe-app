@@ -22,7 +22,7 @@
 
 ## Quick start
 
-1. Clone this repo using `git clone https://github.com/jazibsawar/recipe-app.git`
+1. Clone this repo using `git clone https://github.com/cosmicjs/recipe-app.git`
 2. Move to the appropriate directory: `cd recipe-app`.<br />
 3. Run `npm install` in order to install dependencies and clean the git repo.<br />
 4. Change configurations in `/src/config/config.js` according to your Cosmic JS bucket. <br />
