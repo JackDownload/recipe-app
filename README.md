@@ -31,4 +31,4 @@
 
 Now you're ready to rumble!
 
-Cosmic JS makes a great [Vue.js CMS](https://cosmicjs.com/knowledge-base/vuejs-cms)
+Cosmic JS makes a great [Vue.js CMS](https://cosmicjs.com/knowledge-base/vuejs-cms) for your Vue.js apps.
