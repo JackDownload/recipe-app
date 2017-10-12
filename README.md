@@ -30,3 +30,5 @@
 6. Run `npm run build` to build the project in /dist folder.<br />
 
 Now you're ready to rumble!
+
+Cosmic JS makes a great [Vue.js CMS](https://cosmicjs.com/knowledge-base/vuejs-cms)
